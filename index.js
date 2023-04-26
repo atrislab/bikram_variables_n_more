@@ -2,8 +2,7 @@
 01.- Crear variable tipo let de nombre variableSinValor declarada sin valor
 */
 
-let variableSinValor;
-
+var variableSinValor;
 
 /*
 02.- Crear 2 variables tipo let de nombres booleano1 y booleano2 con valores booleanos
@@ -187,7 +186,7 @@ while(contarHasta10<=10){//mientras la variable sea menor o igual a 10
     contarHasta10++//se suma uno a la variable
 }
 
-console.log(contarHasta10);
+return(contarHasta10);
 
 /*
 25.- Crear las variables preI y preJ con valor 0 a continuación cree un bucle que itere 11 veces. 
@@ -216,32 +215,6 @@ for(i=0; i<10; i++){
 
 }
 console.log(`El resultado es ${sumaImpares}`);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
